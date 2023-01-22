@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I...
 -->
 
+[![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JijoJames04)](https://github.com/JijoJames04/github-readme-stats)
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1914](https://github.com/kunal-kushwaha/commclassroomOP/pull/1914) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
 2. 💪 Opened PR [#1891](https://github.com/kunal-kushwaha/commclassroomOP/pull/1891) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
