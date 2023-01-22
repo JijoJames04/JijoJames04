@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1914](https://github.com/kunal-kushwaha/commclassroomOP/pull/1914) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+2. 💪 Opened PR [#1891](https://github.com/kunal-kushwaha/commclassroomOP/pull/1891) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+3. 💪 Opened PR [#1875](https://github.com/kunal-kushwaha/commclassroomOP/pull/1875) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+4. 💪 Opened PR [#1874](https://github.com/kunal-kushwaha/commclassroomOP/pull/1874) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+5. 💪 Opened PR [#1845](https://github.com/kunal-kushwaha/commclassroomOP/pull/1845) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+<!--END_SECTION:activity-->
