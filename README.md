@@ -1,7 +1,7 @@
 ### Hi there friends👋
 
-<!--
-**JijoJames04/JijoJames04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ I am **Jijo James**. **Open source enthusiast**, currently a student. Dedicated to creating a better world through code and innovation.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jijojames9495@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I...
--->
+
 
 [![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JijoJames04&show_icons=true&theme=tokyonight)
 
