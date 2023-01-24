@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 Things trying to learn:
-- [] Automation using Python
-- [] Shell Scripting
-- [] System Administration
-- [] Docker
-- [] Kubernetes
+- [ ] Automation using Python
+- [ ] Shell Scripting
+- [ ] System Administration
+- [ ] Docker
+- [ ] Kubernetes
