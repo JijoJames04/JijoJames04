@@ -16,11 +16,3 @@ Here are some ideas to get you started:
 
 
 [![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JijoJames04&show_icons=true&theme=tokyonight)
-
-
-Things trying to learn:
-- [ ] Automation using Python
-- [ ] Shell Scripting
-- [ ] System Administration
-- [ ] Docker
-- [ ] Kubernetes
